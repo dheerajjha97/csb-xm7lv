@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "https://dheerajjha97.github.io/csb-xm7lv/static/css/main.9b1431d8.chunk.css",
+    "main.js": "https://dheerajjha97.github.io/csb-xm7lv/static/js/main.72d79fe8.chunk.js",
+    "main.js.map": "https://dheerajjha97.github.io/csb-xm7lv/static/js/main.72d79fe8.chunk.js.map",
+    "runtime-main.js": "https://dheerajjha97.github.io/csb-xm7lv/static/js/runtime-main.2380af65.js",
+    "runtime-main.js.map": "https://dheerajjha97.github.io/csb-xm7lv/static/js/runtime-main.2380af65.js.map",
+    "static/js/2.d24fad8e.chunk.js": "https://dheerajjha97.github.io/csb-xm7lv/static/js/2.d24fad8e.chunk.js",
+    "static/js/2.d24fad8e.chunk.js.map": "https://dheerajjha97.github.io/csb-xm7lv/static/js/2.d24fad8e.chunk.js.map",
+    "index.html": "https://dheerajjha97.github.io/csb-xm7lv/index.html",
+    "precache-manifest.8a908f7510c9b5359783c40e167d2f0e.js": "https://dheerajjha97.github.io/csb-xm7lv/precache-manifest.8a908f7510c9b5359783c40e167d2f0e.js",
+    "service-worker.js": "https://dheerajjha97.github.io/csb-xm7lv/service-worker.js",
+    "static/css/main.9b1431d8.chunk.css.map": "https://dheerajjha97.github.io/csb-xm7lv/static/css/main.9b1431d8.chunk.css.map",
+    "static/js/2.d24fad8e.chunk.js.LICENSE.txt": "https://dheerajjha97.github.io/csb-xm7lv/static/js/2.d24fad8e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2380af65.js",
+    "static/js/2.d24fad8e.chunk.js",
+    "static/css/main.9b1431d8.chunk.css",
+    "static/js/main.72d79fe8.chunk.js"
+  ]
+}
